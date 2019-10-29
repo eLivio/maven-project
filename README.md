@@ -4,7 +4,7 @@ This is my Maven project from MuleSoft's advanced development class
 
 ## How to run the project
 
-1. Add the remote repository: `git remote add origin https://github.com/lpalmieri-mulesoft/maven-project.git`
+1. Add the remote repository: `git remote add origin https://github.com/eLivio/maven-project.git`
 
 1. Enter the repo: `cd maven-project`
 
